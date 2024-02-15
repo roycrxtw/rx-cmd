@@ -1,0 +1,4 @@
+alias gtt="git add --all && git commit -n -m 'tt' && git log -1"
+alias vsc="code-insiders $1"
+alias adb="~/data/platform-tools/adb $1"
+alias ll="ls -lah"
